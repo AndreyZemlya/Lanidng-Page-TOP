@@ -66,7 +66,7 @@ nav li
 
 }
 
-#right-content
+#header-right-content
 {
     width: 600px;
     height: auto;
@@ -77,30 +77,28 @@ nav li
     justify-items: center;
 }
 
-#right-content > p
+#header-right-content > p
 {
     color: rgb(230, 230, 230);
 }
 
-#left-content
+#header-left-content
 {
     width: 350px;
     height: auto;
-
-
 }
 
-#left-content > *
+#header-left-content > *
 {
     margin: 3px;
 }
 
-#left-content > p
+#header-left-content > p
 {
     color: rgb(209, 209, 209);
 }
 
-#left-content > button
+#header-left-content > button
 {
     padding: 6px 18px;
     border: none;
